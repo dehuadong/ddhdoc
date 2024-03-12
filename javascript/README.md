@@ -26,3 +26,4 @@
 - [JavaScript image cropper](https://github.com/fengyuanchen/cropperjs) -- 图像裁剪库
 - [JavaScript image compressor](https://github.com/fengyuanchen/compressorjs) -- 图像压缩库
 - [SheetJS](https://docs.sheetjs.com/docs/) SheetJS 是用于多种电子表格 Excel 的解析器和编写器
+- [Vditor](https://b3log.org/vditor/) -- 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式
