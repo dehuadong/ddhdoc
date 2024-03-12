@@ -48,12 +48,6 @@
 
 - [npmmirror 中国镜像站](https://npmmirror.com/)
 - [中国科技大学开源镜像站(opens new window)](http://mirrors.ustc.edu.cn/)
-- [Homebrew](https://brew.sh/index_zh-cn.html)macOS（或 Linux）缺失的软件包的管理器
-- [Xclient](https://xclient.info/)mac 应用下载
-- [腾讯蓝鲸智云](https://gitee.com/Tencent-BlueKing)一套用于构建企业研发运营一体化体系的 PaaS（平台即服务）开发框架
-- [微信公众平台测试帐号](http://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login)无需公众帐号、快速申请接口测试号直接体验和测试公众平台所有高级接口
-- [中国主要运营商 IP 地址库](https://bgp.space/)基于分析 BGP/ASN 数据生成的 IP 地址库
-- [CodeIf](https://unbug.github.io/codelf/)变量命名神器
 - [LinuxServer](https://www.linuxserver.io/)开源镜像组
 - [可靠的原版软件](https://next.itellyou.cn/Original/)
 - [工具站](https://msdn.itellyou.cn/)

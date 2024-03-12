@@ -3,7 +3,7 @@
 - [typescript](/typescript/docs/)
 - [vue](/vue/)
 - [node](/node/)
-
+- [python](/python/)
 * 资源
   - [uniapp](/guide/uniapp/)
   - [拖曳 Drag](/guide/drag/)
